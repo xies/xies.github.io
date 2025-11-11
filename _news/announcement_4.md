@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be at ISSCR 2024 in Hamburg, Germany, where I will give a talk in the Tissue Maintenance and Regeneration session.
+I was at the ISSCR 2024 in Hamburg, Germany, where I gave a talk in the Tissue Maintenance and Regeneration session.

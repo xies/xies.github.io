@@ -6,3 +6,5 @@ repo_description_lines_max: 2
 github_repos:
   - xies/mouse_skin_size_control
   - xies/pulse_finding
+  - skotheimlab/xie_etal_2025_autonomous_cell_size_control
+  - skotheimlab/fkh_concatemer_analysis 
