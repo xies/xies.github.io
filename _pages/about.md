@@ -24,7 +24,7 @@ the skin of the mouse to disentangle how cells make decisions.
 Currently, I am a scientist in the lab of <a href='https://skotheimlab.com/'>Jan Skotheim</a> at Stanford University,
 in the Department of Biology.
 
-I received my PhD in <a href="https://csbphd.mit.edu/welcome-mit-computational-and-systems-biology-phd-program-csb">Computational and Systems Biology</a> from MIT,
+<!-- I received my PhD in <a href="https://csbphd.mit.edu/welcome-mit-computational-and-systems-biology-phd-program-csb">Computational and Systems Biology</a> from MIT,
 studying how individual cells coordinate
 their actin-myosin contractions (which apply force on their neighbors) to smoothly
-fold a large connected sheet of epithelium. Before this, I studied physics and applied mathematics at UC Berkeley.
+fold a large connected sheet of epithelium. Before this, I studied physics and applied mathematics at UC Berkeley. -->
