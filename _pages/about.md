@@ -23,7 +23,7 @@ generated and replaced in our adult bodies. I use intravital imaging
 to follow hundreds of adult stem cells over many days as they grow inside
 a living mouse.
 
-Currently, I am a postdoc in the lab of <a href='https://skotheimlab.com/'>Jan Skotheim</a> at Stanford University,
+Currently, I am a scientist in the lab of <a href='https://skotheimlab.com/'>Jan Skotheim</a> at Stanford University,
 in the Department of Biology.
 
 I received my PhD in <a href="https://csbphd.mit.edu/welcome-mit-computational-and-systems-biology-phd-program-csb">Computational and Systems Biology</a> from MIT,
