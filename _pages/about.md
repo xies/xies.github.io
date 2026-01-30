@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: postdoc @ stanford biology
+subtitle: quantitative cell biologist @ stanford biology
 
 profile:
   align: right
@@ -17,11 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a quantitative cell biologist interested in how cells and tissues
-"remember" how large they are supposed to be, even though they are being constantly
-generated and replaced in our adult bodies. I use intravital imaging
-to follow hundreds of adult stem cells over many days as they grow inside
-a living mouse.
+I am a quantitative cell biologist interested in understanding cell heterogeneity
+using intravital microscopy (imaging single cells in living animals). I study
+the skin of the mouse to disentangle how cells make decisions.
 
 Currently, I am a scientist in the lab of <a href='https://skotheimlab.com/'>Jan Skotheim</a> at Stanford University,
 in the Department of Biology.
