@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-20 07:59:00-0400
+date: 2024-04-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I was awarded the Young Investigator Award at this year's <a href="https://scdb2024.sites.ucsc.edu/">Santa Cruz Developmental Biology Meeting</a>, where I will be giving a talk.
+I organized a ISSCR Spotlight seminar series: <a href="https://www.isscr.org/upcoming-programs/stem-cell-size-shape-webinar">Stem Cell Size and Shape: Emerging Links to Stem Cell Function</a>

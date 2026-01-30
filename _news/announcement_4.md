@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-21 15:59:00-0400
+date: 2024-08-20 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I was at the ISSCR 2024 in Hamburg, Germany, where I gave a talk in the Tissue Maintenance and Regeneration session.
+I was awarded the Young Investigator Award at this year's <a href="https://scdb2024.sites.ucsc.edu/">Santa Cruz Developmental Biology Meeting</a>, where I will be giving a talk.
