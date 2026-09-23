@@ -14,9 +14,9 @@
       year: 2016
       description:
         - Computational and Systems Biology PhD Program
-        - Adam C. Martin lab
+        - Adam Martin lab
 
-    - title: Bachlor of Arts
+    - title: Bachelor of Arts
       institution: University of California, Berkeley
       year: 2010
       description:
@@ -47,7 +47,7 @@
       year: 2010-2016
       description:
         - Computational and Systems Biology PhD program, Adam Martin lab
-        - Coordination betwen mechanically coupled contracting epithelial cells drives tissue folding
+        - Coordination between mechanically coupled contracting epithelial cells drives tissue folding
     - title: Undergraduate researcher
       institution: UC Berkeley
       year: 2007-2010
@@ -61,11 +61,11 @@
         - Harald Hess group
         - Automated image calibration software for the interferometry PALM microscope prototype
     - title: NSF Research Experience for Undergraduates
-      institution: The SETI Institute / NASA Ames Research Campus
+      institution: The SETI Institute / NASA Ames Research Center
       year: 2008
       description:
         - Friedemann Freund group
-        - Free radical production from igenous rock under mechanical stress
+        - Free radical production from igneous rock under mechanical stress
 
 - title: Honors and Awards
   type: time_table
@@ -74,18 +74,22 @@
       items:
         - Santa Cruz Developmental Biology Meeting Young Investigator Award
         - International Society for Stem Cell Research Merit Award
+    - year: 2022
+      items:
+        - CytoData Meeting Single Cell Image Analysis Hackathon, Grand Prize-winning team
+        - NIH Stadtman Fellow finalist
     - year: 2020-2023
       items:
-        - National Insitute of Health, NIGMS, K99/RO0 Pathway to Independence Award
+        - National Institutes of Health, NIGMS, K99 Pathway to Independence Award (K99GM138712)
     - year: 2019
       items:
         - Company of Biologists, Journal of Cell Science, Travelling Fellow
     - year: 2018-2020
       items:
-        - National Insitute of Health, NIGMS, F32 Kirschstein-NRSA postdoctoral fellowship
+        - National Institutes of Health, NIGMS, F32 Kirschstein-NRSA postdoctoral fellowship (F32GM129878)
     - year: 2006-2010
       items:
-        - Regents' and Chancellors' Scholarship
+        - Regents' and Chancellor's Scholarship
     - year: 2006-2009
       items:
         - Dean's Honor List, UC Berkeley
@@ -95,13 +99,13 @@
   contents:
     - title: Computation
       items:
-        - Biological image anlaysis and computer vision
+        - Biological image analysis and computer vision
         - Machine learning and deep learning
         - Statistical and mechanistic modeling
         - Data engineering and visualization with Python
     - title: Cell and molecular biology
       items:
-        - Microscopy, including two photon, confocal, epifluorescence, in live cells and tissues and animals
+        - Live-cell, tissue, and intravital microscopy (two-photon, confocal, epifluorescence)
         - Quantitative immunofluorescence and flow cytometry
     - title: Organisms
       items:

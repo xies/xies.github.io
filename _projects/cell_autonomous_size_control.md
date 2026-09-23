@@ -18,11 +18,11 @@ understand what sets a cell's size or how they maintain that size over time.
 
 This mechanism is especially important in cell types in our bodies that are
 constantly proliferating -- that is, our stem cells. Both growth and division can
-change cell size, and must be coordinated to keep cell size stability.
+change cell size, and must be coordinated to keep cell size stable.
 
 And why does cell size stability matter? For a single cell, its size
 determines the concentration of its genome, which limits how much machinery
-cells have access to to grow and perform their functions. In multicellular tissues, cell size
+cells can use to grow and perform their functions. In multicellular tissues, cell size
 dictates how tissues are organized, how cells move, how cells touch each other,
 and other physical forces driving cell behaviors.
 
@@ -46,7 +46,7 @@ between cell growth and cell cycle mainly occurred at the _signaling_ level, and
 not autonomous to the cell.
 
 <u>We knew next to nothing about cells <i>in vivo</i>, however</u>.
-Therefore, I developed an experimental system experimental system in which I can
+Therefore, I developed an experimental system in which I can
 study cell size homeostasis in an _in vivo_ animal,
 using [intravital imaging](https://xies.github.io/projects/4d_single_cell_in_vivo_imaging/) to directly observe how single cells grow and divide in the living mouse skin, in 4D.
 
@@ -94,7 +94,7 @@ key decision, compared to the slew of other environmental signals and changes th
 
  Using quantitative image analysis, I analyzed how the dividing cell's morphology
  as well as the tissue microenvironment surrounding it changed over time. Then,
- using this rich set of information of <u>cell and microenvrionment morphometrics</u>, I
+ using this rich set of information of <u>cell and microenvironment morphometrics</u>, I
  built statistical models to isolate which feature can predict whether cells will enter
  the G1/S transition. {% cite xie_g1s_2024 %}
 
@@ -164,7 +164,7 @@ duration of G1.
 <br>
 
 ## Conclusion
-The high heterogeneity cell cycles of adult stem cells _in vivo_ is
+The highly heterogeneous cell cycles of adult stem cells _in vivo_ are
 due mainly to cell size homeostasis mechanisms. That is to say, the cell cycle progression
 _in vivo_ is stringently coupled to cell size, and variation in cell cycle length
 serves to maintain uniformity in cell size. _Why_ cell size uniformity needs to be actively

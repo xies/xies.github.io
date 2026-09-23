@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I organized a ISSCR Spotlight seminar series: <a href="https://www.isscr.org/upcoming-programs/stem-cell-size-shape-webinar">Stem Cell Size and Shape: Emerging Links to Stem Cell Function</a>
+I organized an ISSCR Spotlight seminar series: <a href="https://www.isscr.org/upcoming-programs/stem-cell-size-shape-webinar">Stem Cell Size and Shape: Emerging Links to Stem Cell Function</a>

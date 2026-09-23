@@ -10,7 +10,7 @@ images:
 ---
 
 Stanford's Department of Biology hosts a Pumpkin Fest every year on Halloween. For 2023, I decided to
-create portrait of a typical lab meeting framed as a parody of da Vinci's _The Last Supper_.
+create a portrait of a typical lab meeting framed as a parody of da Vinci's _The Last Supper_.
 
 {% include figure.liquid loading="eager" path="assets/img/art/pumpkin1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 

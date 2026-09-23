@@ -59,7 +59,7 @@ that are next to other contractions are also more likely to be irreversible.
 ## How does a contracting epithelium tolerate heterogeneity in cell size?
 
 Using my computational method, I analyzed a class of developmental mutants
-who fail to mount 'coherent' contractions. In these mutants, a subset of
+that fail to mount 'coherent' contractions. In these mutants, a subset of
 cells in the mesoderm successfully constrict their apical surface, while the rest
 of the cells end up with expanded apices, resulting in failed gastrulation.
 
@@ -71,7 +71,7 @@ contraction signal throughout the tissue, these pathways actually acted cell-aut
 They ensured that the apical cortex in each contracting cell is robustly organized
 to withstand heterogeneity in apical sizes. In _cta_ mutants, cells that are
 initially larger than their neighbors cannot sustain enough tension throughout
-its apical cortext, and will be pulled apart by its contracting neighbors.
+their apical cortex, and are pulled apart by their contracting neighbors.
 
 Thus, this pathway buffers the contracting mesoderm against heterogeneity
 in cell size and ensures robust morphogenesis. {% cite xie_loss_2016 %}
