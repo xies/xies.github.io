@@ -13,6 +13,7 @@ When my friend <a href="https://sites.uw.edu/vasquezlab/">Claudia Vásquez</a> l
 to start her lab at University of Washington, studying how simple epithelial shapes like
 folds and tubes further organize in 3D into more complex shapes, I painted for her a cartoon of her
 model system of interest, the <i>Drosophila</i> Malpighian tubule cells.
+
 <div class="row">
     <div class="col mt-3 mt-md-0">
     </div>
