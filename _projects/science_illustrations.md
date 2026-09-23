@@ -8,6 +8,7 @@ category: art
 ---
 
 ## tubular cells
+
 When my friend <a href="https://sites.uw.edu/vasquezlab/">Claudia Vásquez</a> left Stanford
 to start her lab at University of Washington, studying how simple epithelial shapes like
 folds and tubes further organize in 3D into more complex shapes, I painted for her a cartoon of her
@@ -37,7 +38,6 @@ model system of interest, the <i>Drosophila</i> Malpighian tubule cells.
 </div>
 <div class="caption"> watercolor on paper </div>
 
-
 ## portraits of scientific equipment
 
 <div class="row">
@@ -58,5 +58,6 @@ model system of interest, the <i>Drosophila</i> Malpighian tubule cells.
 
     These images eventually were made into a Skotheim lab hoodie.
     </div>
+
 </div>
 <div class="caption"> watercolor on paper </div>

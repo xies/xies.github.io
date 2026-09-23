@@ -8,6 +8,7 @@ category: art
 ---
 
 ## landscapes
+
 <div class="row">
     <div class="col">
         {% include figure.liquid loading="eager" path="assets/img/art/hemlock.jpg" title="landscape1" class="img-fluid rounded z-depth-1" %}
@@ -23,6 +24,7 @@ category: art
 <br>
 
 ## portraits of my cats
+
 <div class="row">
 <div class="col">
   {% include figure.liquid loading="eager" path="assets/img/art/nibbler.jpg" title="nibbler" class="img-fluid rounded z-depth-1" %}
@@ -39,6 +41,7 @@ Left: Mr. Nibbler; Right: Mr. Pirate Prentice.
 <br>
 
 ## birds
+
 I love birdwatching! And bird painting!
 
 <div class="row">

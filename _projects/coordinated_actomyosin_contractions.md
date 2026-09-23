@@ -51,7 +51,6 @@ that are next to other contractions are also more likely to be irreversible.
   </div>
 </div>
 
-
 <br>
 <br>
 <br>

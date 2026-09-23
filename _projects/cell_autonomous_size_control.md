@@ -10,7 +10,6 @@ toc:
   sidebar: top
 ---
 
-
 ## Why study cell size?
 
 Size is one of the most fundamental parameters of a cell. Yet, we do not
@@ -63,6 +62,7 @@ using [intravital imaging](https://xies.github.io/projects/4d_single_cell_in_viv
 <br>
 
 ## The G1/S transition _in vivo_ is sensitive to cell size
+
 <div class="row">
   <div class="col-4">
       {% include figure.liquid loading="eager" path="assets/img/skin/size_control_g1_length.png" title="growth curves" class="img-fluid rounded z-depth-5" %}
@@ -92,11 +92,11 @@ Clearly, cell size is influencing whether skin stem cells _in vivo_ enter S phas
 at any given time. However, it was unclear how much influence cell size has on this
 key decision, compared to the slew of other environmental signals and changes these stem cells experience every day.
 
- Using quantitative image analysis, I analyzed how the dividing cell's morphology
- as well as the tissue microenvironment surrounding it changed over time. Then,
- using this rich set of information of <u>cell and microenvironment morphometrics</u>, I
- built statistical models to isolate which feature can predict whether cells will enter
- the G1/S transition. {% cite xie_g1s_2024 %}
+Using quantitative image analysis, I analyzed how the dividing cell's morphology
+as well as the tissue microenvironment surrounding it changed over time. Then,
+using this rich set of information of <u>cell and microenvironment morphometrics</u>, I
+built statistical models to isolate which feature can predict whether cells will enter
+the G1/S transition. {% cite xie_g1s_2024 %}
 
 <div class="row">
   <div class="col">
@@ -114,7 +114,6 @@ key decision, compared to the slew of other environmental signals and changes th
 <br>
 <br>
 <br>
-
 
 <div class="row">
   <div class="col-6">
@@ -164,6 +163,7 @@ duration of G1.
 <br>
 
 ## Conclusion
+
 The highly heterogeneous cell cycles of adult stem cells _in vivo_ are
 due mainly to cell size homeostasis mechanisms. That is to say, the cell cycle progression
 _in vivo_ is stringently coupled to cell size, and variation in cell cycle length
